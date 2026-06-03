@@ -35,7 +35,7 @@ const STORY_MESSAGES = [
 
 const CELEBRATION_MESSAGES = [
   "Happy Birthday gekk!",
-  "Semoga gek sehat selalu, makin bahagia, dan semua yang gek harapin bisa terwujud.",
+  "Selamat ulang tahun ya gek🥳🥳🤩, Semoga gek sehat selalu, makin bahagia, dan semua yang gek harapin bisa terwujud🙏.",
   "Semoga hari-hari gek ke depannya selalu dipenuhi hal-hal baik.",
   "Semangat kuliahnya gek :D .",
   "Enjoy your special day, have a blast! ✨"
