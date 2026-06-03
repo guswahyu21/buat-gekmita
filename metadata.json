@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday",
+  "description": "A beautiful, elegant birthday greeting website designed for a special someone. Mobile responsive with music, animations, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
