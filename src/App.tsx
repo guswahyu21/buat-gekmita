@@ -295,7 +295,7 @@ export default function App() {
                  transition={{ delay: 1, duration: 1, repeat: Infinity, repeatType: "reverse" }}
                  className="text-white/60 text-sm tracking-widest font-medium uppercase"
                >
-                 ( Tap fotonya ya )
+                 ( Tap fotonya dari pertama ya )
                </motion.p>
              </div>
              <div className="grid grid-cols-2 gap-4 w-full">
